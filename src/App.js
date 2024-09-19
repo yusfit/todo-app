@@ -45,7 +45,7 @@ function App() {
   });
   return (
     <div>
-      <div className="bg-slate-700 h-screen shadow-sm shadow-black md:mx-80 mx-4 md:mt-10 mt-20 pb-10 ">
+      <div className="bg-slate-700 shadow-sm shadow-black md:mx-80 mx-4 md:mt-10 mt-20 pb-10 ">
         <div className="mx-8 ">
           <div className="flex justify-between items-center pt-4">
             <h1 className="text-3xl text-white ">USE TODOS</h1>
